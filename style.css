@@ -1,0 +1,36 @@
+
+/* background stuff */
+body{
+    background-color: rgb(83, 154, 236);
+    background-image: url("images.jfif");
+}
+/* header color */
+h1{
+    color: rgb(34, 70, 168);
+    font-family: fantasy;
+    text-align: center;
+    font-size: 70pt;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+    font-size: 40pt;
+    font-family: monospace;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 0, 242);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+

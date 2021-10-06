@@ -48,18 +48,49 @@ header {
 
 div.right {
     float: right;
-    padding: 7%;
-    margin: 20px 20px 20px 20px;
+    padding: 2.5%;
+    margin: 0%;
     background-color: chocolate;
-    width: 30%;
+    width: 65%;
+    height: 300px;
 }
 
 
 div.left {
-    width: 30%;
+    width: 25%;
     float: left;
+    padding: 2.5%;
+    background-color: brown;
+    height: 300px;
 }
 
+div.footer {
+    text-align: center;
+    width:100%;
+    background-color: darkblue;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    
+}
 
+img {
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+p {
+    color: crimson;
+    font-family: fantasy;
+    font-size: 30pt;
+}
+
+p1 {
+    color: darkorange;
+    font-family: fantasy;
+    font-size: 100pt;
+}
 
 
